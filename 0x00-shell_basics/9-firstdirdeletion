@@ -1,0 +1,9 @@
+root@b90a09d9a147:~/alx-system_engineering-devops/0x00-shell_basics# cd tmp                                                             
+
+root@b90a09d9a147:~/alx-system_engineering-devops/0x00-shell_basics/tmp# rm -r my_first_directory                                       
+
+root@b90a09d9a147:~/alx-system_engineering-devops/0x00-shell_basics/tmp# ls                                                             
+
+root@b90a09d9a147:~/alx-system_engineering-devops/0x00-shell_basics/tmp# cd my_first_directory                                          
+
+bash: cd: my_first_directory: No such file or directory     

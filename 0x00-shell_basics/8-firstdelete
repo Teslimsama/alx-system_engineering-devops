@@ -1,0 +1,11 @@
+root@b90a09d9a147:~/alx-system_engineering-devops/0x00-shell_basics/tmp# cd my_first_directory                                          
+
+root@b90a09d9a147:~/alx-system_engineering-devops/0x00-shell_basics/tmp/my_first_directory# ls                                          
+
+betty                                                                                                                                   
+
+root@b90a09d9a147:~/alx-system_engineering-devops/0x00-shell_basics/tmp/my_first_directory# rm betty                                    
+
+root@b90a09d9a147:~/alx-system_engineering-devops/0x00-shell_basics/tmp/my_first_directory# ls                                          
+
+root@b90a09d9a147:~/alx-system_engineering-devops/0x00-shell_basics/tmp/my_first_directory#    

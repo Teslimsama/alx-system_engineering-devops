@@ -1,0 +1,15 @@
+total 12                                                                                                                                
+
+drwxr-xr-x 2 root root 122 Feb  8 13:02 .                                                                                               
+
+drwxr-xr-x 4 root root  60 Feb  8 10:55 ..                                                                                              
+
+-rw-r--r-- 1 root root  54 Feb  8 11:00 0-current_working_directory                                                                     
+
+-rw-r--r-- 1 root root  40 Feb  8 11:03 1-listit                                                                                        
+
+-rw-r--r-- 1 root root   0 Feb  8 12:52 2-bring_me_home                                                                                 
+
+-rw-r--r-- 1 root root 604 Feb  8 13:00 3-listfiles                                                                                     
+
+-rw-r--r-- 1 root root   0 Feb  8 13:02 4-listmorefiles    
